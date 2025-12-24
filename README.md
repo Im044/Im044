@@ -1,18 +1,19 @@
-# 💫 Hi 👋, I'm Mohd Muffasil
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+## Hello world 🌏, i am [Mohd Muffasil](https://mohd-muffasil-it-support-82pr7w9.gamma.site/) 👾
+
+- 💼 Freelancer
+- 🌱 I'm currently learning Flutter, Python , LLM , AI agents automations, Go (Golang) 
+
+### Languages and Tools:
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 Email Me 👉 ✉️ **mdmuffasil893@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on: AI Agents automations 
-- 🌱 **I’m currently learning:** LLM and creation of AI agents 
-- 👯 **I’m looking to collaborate on:**Developer for APPS
-- 🤔 **I’m looking for help with:** AI Agents automations 
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** mdmufasil893@gmail.com
-- 😄 **Pronouns:** Muhammed Muffasil
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🔗 I am a dev03. 😊😊
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/im04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[[https://linkedin.com/in/mohd.muffasil](https://www.linkedin.com/in/mohd-muffasil-661191209/)](https://www.linkedin.com/in/mohd-muffasil-661191209/)]) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdmufasil893@gmail.com) 
