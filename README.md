@@ -1,55 +1,54 @@
-# 👋 Hello, I'm Mohd Muffasil
+# 🔧 Hello, I'm Mohd Muffasil
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Automation+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=System+Administrator;Server+Handler;Azure+Cloud+Specialist;Infrastructure+Expert" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 💼 About Me
 
-I'm a passionate **Full Stack Developer** and **Tech Enthusiast** from Hyderabad, India. I specialize in building scalable applications, automating workflows, and exploring cutting-edge technologies.
+I'm a **System Administrator** and **Server Handler** specializing in cloud infrastructure and IT operations. Based in Hyderabad, India, I focus on managing enterprise servers, cloud infrastructure, and resolving critical Azure issues.
 
-- 💻 **Current Role**: Freelancer & IT Support Specialist at NEW ERA TECHNOLOGY PVT LTD
-- 🎯 **Focus Areas**: Full-stack development, Cloud computing, AI/ML, Automation
-- 🌱 **Currently Learning**: Flutter, Python, LLM, AI Agents, Go (Golang)
-- 🎮 **Hobbies**: Gaming (Fortnite), Content Creation, Tech Exploration
+- 🖥️ **Current Role**: Administrator & IT Support Specialist at NEW ERA TECHNOLOGY PVT LTD
+- ☁️ **Specialization**: Microsoft Azure, Server Management, Infrastructure Administration, Cloud Operations
+- 🔐 **Key Focus**: Azure issue resolution, Server optimization, System security, IT infrastructure
+- 🌱 **Currently Learning**: Advanced Azure certifications, PowerShell automation, Kubernetes, DevOps
+- 🎯 **Expertise**: Virtual Machines, App Services, Networking, Storage, Security & Compliance
 - 📧 **Reach Out**: mdmuffasil893@gmail.com
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Technical Skills
 
-### Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend & Mobile
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-### Backend & Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### Cloud Platforms
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### DevOps & Tools
+### Server & Infrastructure
+![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Administration & Tools
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-%230078D4.svg?style=for-the-badge&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23C51C1C.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EB6D20.svg?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Azure Services
+![Azure VMs](https://img.shields.io/badge/Azure%20VMs-%230078D4.svg?style=for-the-badge&logoColor=white)
+![App Service](https://img.shields.io/badge/App%20Service-%230078D4.svg?style=for-the-badge&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-%230078D4.svg?style=for-the-badge&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D4.svg?style=for-the-badge&logoColor=white)
+
+### Networking
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Protocol-%23333333?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-%23333333.svg?style=for-the-badge)
+![VPN](https://img.shields.io/badge/VPN-Security-%23333333?style=for-the-badge)
+![Firewalls](https://img.shields.io/badge/Firewalls-%23333333.svg?style=for-the-badge)
 
 ---
 
@@ -59,40 +58,37 @@ I'm a passionate **Full Stack Developer** and **Tech Enthusiast** from Hyderabad
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Im044&theme=dark&hide_border=false)](https://github.com/Im044)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Im044&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/Im044)
+---
+
+## 🏆 Certifications & Achievements
+
+- ✅ **Pull Shark** - 50+ Pull Requests
+- ⚡ **Quickdraw** - Created PR within first hour  
+- 🌟 **Open Source Contributor** - Active community member
 
 ---
 
-## 🏆 Achievements & Badges
+## 📁 Key Projects
 
-✨ Pull Shark - 50+ Pull Requests
-⚡ Quickdraw - Created PR within first hour
+### 🖥️ [Python Utility Tools](https://github.com/Im044/python-utility-tools)
+Collection of Python utilities for system administration and server management
 
----
+### 🌐 [Web Dev Toolkit](https://github.com/Im044/web-dev-toolkit)
+Web development utilities for cloud-based applications
 
-## 📈 Key Projects
-
-### 🤖 [AI Chatbot with LLM](https://github.com/Im044/ai-chatbot-llm)
-Advanced chatbot powered by GPT, Claude, and LLaMA with real-time responses
-
-### 🎨 [AI Image Generator](https://github.com/Im044/ai-image-generator)
-Powerful image generation using Stable Diffusion, DALL-E, and Midjourney APIs
-
-### ⚙️ [n8n Automation Workflows](https://github.com/Im044/n8n-automation-workflows)
-Collection of N8N workflows for email, data sync, and business automation
-
-### 🚀 [FastAPI ML API](https://github.com/Im044/fastapi-ml-api)
-Production-ready ML API with authentication, Docker, and CI/CD
+### 🔄 [n8n Automation Workflows](https://github.com/TheAlgorithms/Python)
+Automation workflows for IT operations and server management
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Expertise Areas
 
-- ✅ Increase contributions to 200+ annually
-- ✅ Build more AI/ML projects
-- ✅ Contribute to open-source communities
-- ✅ Gain 100+ GitHub followers
-- ✅ Create educational content
+- **Azure Administration**: VM management, networking, security, compliance
+- **Server Management**: Windows & Linux server administration
+- **Infrastructure**: Cloud architecture, disaster recovery, scalability
+- **Security**: Azure security, IAM, firewalls, data protection
+- **Troubleshooting**: Azure issue resolution, performance optimization
+- **Automation**: PowerShell scripting, CI/CD pipelines
 
 ---
 
@@ -119,5 +115,5 @@ If you find my projects helpful, consider supporting:
 </div>
 
 <div align="center">
-  <em>"Code is poetry written for machines, but read by humans." - Linus Torvalds</em>
+  <em>"Infrastructure is the backbone of modern IT. Excellence in administration is the key to success." - IT Professional</em>
 </div>
