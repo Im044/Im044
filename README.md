@@ -13,8 +13,6 @@
 ---
 
 <img src="https://img.shields.io/badge/Welcome-👋-blue?style=flat-square&color=0078D4" alt="Welcome" />
-<img src="https://visitor-badge.glitch.me/badge?page_id=Im044.Im044" alt="Visitor Badge" />
-
 </div>
 
 ---
@@ -139,3 +137,36 @@ If you find my projects helpful and would like to support my work, you can:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mdmuffasil)
 
 Your support helps me continue developing and maintaining these projects. Thank you! ❤️
+
+
+---
+
+## 💎 Animated Profile Features
+
+### GitHub Activity Snake
+
+![GitHub Snake Animation](https://github.com/Im044/Im044/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📊 Statistics & Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Im044&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Im044&theme=dark-dimmed&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🎉 Profile Views & Activity
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Im044&color=0078D4&style=flat-square" alt="Profile Views" />
+</div>
+
+---
+
+*Last updated: December 2025*
