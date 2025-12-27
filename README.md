@@ -1,7 +1,5 @@
-# 🔧 Hello, I'm Mohd Muffasil
-
+# 👋 Hello, I'm Mohd Muffasil
 <div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=System+Administrator;Server+Handler;AI+Automation+Specialist;Freelancer" alt="Typing SVG" />
 
 ---
@@ -22,8 +20,6 @@
 ---
 
 ## 💼 About Me
-
-<img align="right" src="https://media.giphy.com/media/SWoRKslHVtqjXVKeVd/giphy.gif" width="200" />
 
 I'm a **System Administrator, Server Handler, and Freelancer** specializing in cloud infrastructure and IT operations. Based in Hyderabad, India, I focus on managing enterprise servers, cloud infrastructure, and resolving critical Azure issues.
 
@@ -52,148 +48,80 @@ I'm a **System Administrator, Server Handler, and Freelancer** specializing in c
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### Administration & Tools
+### VPN & Server Administration Tools
 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-%230078D4.svg?style=for-the-badge&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23C51C1C.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange)
-![Chef](https://img.shields.io/badge/Chef-%23F60C63.svg?style=for-the-badge&logo=chef&logoColor=white)
-![Puppet](https://img.shields.io/badge/Puppet-%23FFAE1A.svg?style=for-the-badge&logo=puppet&logoColor=black)
-![SaltStack](https://img.shields.io/badge/SaltStack-%2360B83B.svg?style=for-the-badge&logoColor=white)
-
-### Azure Services
-
-![Azure VMs](https://img.shields.io/badge/Azure%20VMs-%230078D4.svg?style=for-the-badge&logoColor=white)
-![App Service](https://img.shields.io/badge/App%20Service-%230078D4.svg?style=for-the-badge&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure%20SQL-%230078D4.svg?style=for-the-badge&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D4.svg?style=for-the-badge&logoColor=white)
-
-### Networking & VPN
-
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Protocol-%23333333?style=for-the-badge)
-![DNS](https://img.shields.io/badge/DNS-%23333333.svg?style=for-the-badge)
-![VPN](https://img.shields.io/badge/VPN-Security-%23333333?style=for-the-badge)
-![Firewalls](https://img.shields.io/badge/Firewalls-%23333333.svg?style=for-the-badge)
-![WireGuard](https://img.shields.io/badge/WireGuard-%2388171A.svg?style=for-the-badge)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white)
-![IPSec](https://img.shields.io/badge/IPSec-Protocol-%23333333?style=for-the-badge)
-![SSTP](https://img.shields.io/badge/SSTP-VPN-%23333333?style=for-the-badge)
 ![L2TP](https://img.shields.io/badge/L2TP-VPN-%23333333?style=for-the-badge)
 ![PPTP](https://img.shields.io/badge/PPTP-Protocol-%23333333?style=for-the-badge)
 ![IKEv2](https://img.shields.io/badge/IKEv2-Protocol-%23333333?style=for-the-badge)
 
+### Administration & Tools
+
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+
 ### AI & Automation Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Make (Integromat)](https://img.shields.io/badge/Make-FF6B00?style=for-the-badge&logo=make&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-EA5200?style=for-the-badge&logo=uipath&logoColor=white)
-![Blue Prism](https://img.shields.io/badge/Blue%20Prism-003DA5?style=for-the-badge&logoColor=white)
-![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-4D4D4D?style=for-the-badge&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-%23Zapier-FF4F00?style=for-the-badge)
+![Make (Integromat)](https://img.shields.io/badge/Make-%23FF6B6B?style=for-the-badge)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![Blue Prism](https://img.shields.io/badge/Blue%20Prism-%23003DA5?style=for-the-badge)
+![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-404040?style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude-AI-9333EA?style=for-the-badge&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude-AI-933FA3?style=for-the-badge)
 ![Copilot](https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF8F00?style=for-the-badge&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF000000?style=for-the-badge&logo=python&logoColor=white)
+
+### Azure Services
+
+![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-## 🤖 AI Automation & Learning Focus
-
-<img src="https://media.giphy.com/media/l0HlNaQ9lS5Be6dgw/giphy.gif" width="100" alt="AI" />
+## 🎓 AI Automation & Learning Focus
 
 Currently deepening expertise in **Intelligent Automation and AI-Driven Infrastructure**:
 
 - **Robotic Process Automation (RPA)**: UiPath, Blue Prism, Automation Anywhere
-- **Workflow Automation**: N8N, Zapier, Make (formerly Integromat)
-- **AI Integration**: ChatGPT, Claude AI, Microsoft Copilot for IT operations
-- **Machine Learning**: ML models for infrastructure optimization and predictive maintenance
-- **Intelligent Infrastructure**: AI-powered resource management, anomaly detection
-- **Natural Language Processing**: Using LLMs for IT documentation and automation
-- **AI-Enhanced Monitoring**: Intelligent alerting and automated remediation
+- **AI Integration**: ChatGPT, Claude, Microsoft Copilot for infrastructure automation
+- **Workflow Automation**: n8n, Zapier, Make (Integromat) for enterprise solutions
+- **Machine Learning & AI**: Exploring AI-powered infrastructure monitoring and predictive maintenance
+- **Cloud AI Services**: Azure AI, AWS AI services, Google Cloud AI integration with infrastructure management
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Featured Projects
 
-<div align="center">
+### [im04-project](https://github.com/Im044/im04-prjoect-)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Im044&theme=dark&hide_border=false&include_all_commits=true)](https://github.com/Im044)
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Im044&theme=dark&hide_border=false)](https://github.com/Im044)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im044&theme=dark&layout=compact&hide_border=false)](https://github.com/Im044)
-
-</div>
+My flagship project showcasing IT infrastructure automation and server management solutions.
 
 ---
 
-## 🏆 Certifications & Achievements
+## 📊 GitHub Statistics
 
-- ✅ **Pull Shark** - 50+ Pull Requests
-- ⚡ **Quickdraw** - Created PR within first hour
-- 🌟 **Open Source Contributor** - Active community member
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Im044&show_icons=true&theme=dark&count_private=true)
 
 ---
 
-## 📁 Key Projects
+## 🤝 Connect With Me
 
-### 🖥️ [Python Utility Tools](https://github.com/Im044/python-utility-tools)
-Collection of Python utilities for system administration and server management
-
-### 🌐 [Web Dev Toolkit](https://github.com/Im044/web-dev-toolkit)
-Web development utilities for cloud-based applications
-
-### 🔄 [n8n Automation Workflows](https://github.com/TheAlgorithms/Python)
-Automation workflows for IT operations and server management
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmuffasil893@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmuffasil)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Im044)
 
 ---
 
-## 🎯 Expertise Areas
+## 💡 Let's Collaborate!
 
-- **Azure Administration**: VM management, networking, security, compliance
-- **Server Management**: Windows & Linux server administration
-- **Infrastructure**: Cloud architecture, disaster recovery, scalability
-- **Security**: Azure security, IAM, firewalls, data protection
-- **Troubleshooting**: Azure issue resolution, performance optimization
-- **Automation**: PowerShell scripting, CI/CD pipelines
-- **Networking**: VPN setup (OpenVPN, WireGuard, IPSec, L2TP), DNS management, network security
-- **Monitoring**: Prometheus, Grafana, Azure Monitor configuration
-- **AI Automation**: RPA, Workflow automation, Intelligent process automation
-- **AI Integration**: ChatGPT, Claude, Copilot for infrastructure optimization
+I'm always open to discussing IT infrastructure projects, cloud solutions, server management, and innovative automation ideas. Feel free to reach out!
 
 ---
 
-## 📱 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-muffasil-661191209/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdmuffasil893@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/im04)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?logo=vercel&logoColor=white)](https://mohd-muffasil-it-support-82pr7w9.gamma.site/)
-
----
-
-## 💝 Support My Work
-
-If you find my projects helpful, consider supporting:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohdmuffasil)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mohdmuffasil)
-
----
-
-<div align="center">
-
-**Made with ❤️ by [Mohd Muffasil](https://github.com/Im044)**
-
-![Wave](https://img.shields.io/badge/-👋-blue?style=flat-square&color=transparent)
-
-[⬆ Back to Top](#-hello-im-mohd-muffasil)
-
-</div>
+*Thank you for visiting my profile! 🚀*
