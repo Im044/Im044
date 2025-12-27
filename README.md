@@ -20,7 +20,7 @@ I'm a **System Administrator, Server Handler, and Freelancer** specializing in c
 - 🎯 **Availability**: Open for Freelance Projects - IT Infrastructure, Azure Solutions, Server Management
 - ☁️ **Specialization**: Microsoft Azure, Server Management, Infrastructure Administration, Cloud Operations
 - 🔐 **Key Focus**: Azure issue resolution, Server optimization, System security, IT infrastructure
-- 🌱 **Currently Learning**: Advanced Azure certifications, PowerShell automation, Kubernetes, DevOps
+- 🌱 **Currently Learning**: Advanced Azure certifications, PowerShell automation, Kubernetes, DevOps, **AI Automation, Intelligent Automation (RPA), AI-Driven Infrastructure**
 - 🎓 **Expertise**: Virtual Machines, App Services, Networking, Storage, Security & Compliance
 - 📧 **Reach Out**: mdmuffasil893@gmail.com
 
@@ -51,6 +51,9 @@ I'm a **System Administrator, Server Handler, and Freelancer** specializing in c
 ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange)
+![Chef](https://img.shields.io/badge/Chef-%23F60C63.svg?style=for-the-badge&logo=chef&logoColor=white)
+![Puppet](https://img.shields.io/badge/Puppet-%23FFAE1A.svg?style=for-the-badge&logo=puppet&logoColor=black)
+![SaltStack](https://img.shields.io/badge/SaltStack-%2360B83B.svg?style=for-the-badge&logoColor=white)
 
 ### Azure Services
 
@@ -69,6 +72,38 @@ I'm a **System Administrator, Server Handler, and Freelancer** specializing in c
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white)
 ![IPSec](https://img.shields.io/badge/IPSec-Protocol-%23333333?style=for-the-badge)
 ![SSTP](https://img.shields.io/badge/SSTP-VPN-%23333333?style=for-the-badge)
+![L2TP](https://img.shields.io/badge/L2TP-VPN-%23333333?style=for-the-badge)
+![PPTP](https://img.shields.io/badge/PPTP-Protocol-%23333333?style=for-the-badge)
+![IKEv2](https://img.shields.io/badge/IKEv2-Protocol-%23333333?style=for-the-badge)
+
+### AI & Automation Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make (Integromat)](https://img.shields.io/badge/Make-FF6B00?style=for-the-badge&logo=make&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-EA5200?style=for-the-badge&logo=uipath&logoColor=white)
+![Blue Prism](https://img.shields.io/badge/Blue%20Prism-003DA5?style=for-the-badge&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-4D4D4D?style=for-the-badge&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude-AI-9333EA?style=for-the-badge&logoColor=white)
+![Copilot](https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logoColor=white)
+
+---
+
+## 🤖 AI Automation & Learning Focus
+
+Currently deepening expertise in **Intelligent Automation and AI-Driven Infrastructure**:
+
+- **Robotic Process Automation (RPA)**: UiPath, Blue Prism, Automation Anywhere
+- **Workflow Automation**: N8N, Zapier, Make (formerly Integromat)
+- **AI Integration**: ChatGPT, Claude AI, Microsoft Copilot for IT operations
+- **Machine Learning**: ML models for infrastructure optimization and predictive maintenance
+- **Intelligent Infrastructure**: AI-powered resource management, anomaly detection
+- **Natural Language Processing**: Using LLMs for IT documentation and automation
+- **AI-Enhanced Monitoring**: Intelligent alerting and automated remediation
 
 ---
 
@@ -109,8 +144,10 @@ Automation workflows for IT operations and server management
 - **Security**: Azure security, IAM, firewalls, data protection
 - **Troubleshooting**: Azure issue resolution, performance optimization
 - **Automation**: PowerShell scripting, CI/CD pipelines
-- **Networking**: VPN setup, DNS management, network security
+- **Networking**: VPN setup (OpenVPN, WireGuard, IPSec, L2TP), DNS management, network security
 - **Monitoring**: Prometheus, Grafana, Azure Monitor configuration
+- **AI Automation**: RPA, Workflow automation, Intelligent process automation
+- **AI Integration**: ChatGPT, Claude, Copilot for infrastructure optimization
 
 ---
 
