@@ -147,26 +147,4 @@ Your support helps me continue developing and maintaining these projects. Thank 
 
 ![GitHub Snake Animation](https://github.com/Im044/Im044/blob/output/github-contribution-grid-snake.svg)
 
----
 
-## 📊 Statistics & Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Im044&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Im044&theme=dark-dimmed&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🎉 Profile Views & Activity
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Im044&color=0078D4&style=flat-square" alt="Profile Views" />
-</div>
-
----
-
-*Last updated: December 2025*
