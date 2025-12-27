@@ -1,54 +1,52 @@
-# 🔧 Hello, I'm Mohd Muffasil
+# 🎯 Hello, I'm Mohd Muffasil
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=System+Administrator;Server+Handler;Azure+Cloud+Specialist;Infrastructure+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=IT+Support+Specialist;Technical+Troubleshooting+Expert;Server+Infrastructure+Manager;ITIL+Certified+Professional" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 💼 About Me
 
-I'm a **System Administrator** and **Server Handler** specializing in cloud infrastructure and IT operations. Based in Hyderabad, India, I focus on managing enterprise servers, cloud infrastructure, and resolving critical Azure issues.
+Detail-oriented and proactive **IT Support Specialist** with hands-on experience specializing in **server infrastructure management**, **network administration**, and **IT security compliance**. Proven expertise in maintaining robust IT systems, implementing security policies, managing virtualization environments, and providing comprehensive technical support to enterprise clients.
 
-- 🖥️ **Current Role**: Administrator & IT Support Specialist at NEW ERA TECHNOLOGY PVT LTD
-- ☁️ **Specialization**: Microsoft Azure, Server Management, Infrastructure Administration, Cloud Operations
-- 🔐 **Key Focus**: Azure issue resolution, Server optimization, System security, IT infrastructure
-- 🌱 **Currently Learning**: Advanced Azure certifications, PowerShell automation, Kubernetes, DevOps
-- 🎯 **Expertise**: Virtual Machines, App Services, Networking, Storage, Security & Compliance
-- 📧 **Reach Out**: mdmuffasil893@gmail.com
+- 🏢 **Current Role**: IT Support Specialist at Cameo Global Communications (NEW ERA TECHNOLOGY)
+- 📍 **Location**: Hyderabad, Telangana, India  
+- 🎯 **Specialization**: Server Infrastructure, IT Support, Network Admin, ITIL Service Management
+- 🔧 **Focus Areas**: Ticket management, incident resolution, server administration, user support, system optimization
+- 📚 **Currently Learning**: Advanced Azure certifications, PowerShell automation, ITIL best practices
+- 💪 **Expertise**: Active Directory, Intune, ServiceNow, ticketing systems, Windows/Linux administration
+- 📧 **Contact**: mdmuffasil893@gmail.com | 📞 +91 7097888086
 
 ---
 
-## 🔧 Technical Skills
+## 🔧 Technical Skills & Tools
 
-### Cloud Platforms
+### Support & Ticketing Platforms
+![ServiceNow](https://img.shields.io/badge/ServiceNow-%23E6F2FF.svg?style=for-the-badge&logo=servicenow&logoColor=black)
+![ITIL](https://img.shields.io/badge/ITIL-Certified-%230078D4?style=for-the-badge)
+![Ticketing Systems](https://img.shields.io/badge/Ticketing-Nova%20%7C%20Atrium-%230078D4?style=for-the-badge)
+![Incident Management](https://img.shields.io/badge/Incident-Management-%23FF6B6B?style=for-the-badge)
+
+### Cloud & Server Management
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### Server & Infrastructure
+![Active Directory](https://img.shields.io/badge/Active%20Directory-%230078D4.svg?style=for-the-badge&logoColor=white)
+![Microsoft Intune](https://img.shields.io/badge/Intune-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### Administration & Tools
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-%230078D4.svg?style=for-the-badge&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23C51C1C.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### Microsoft 365 & Enterprise Tools
+![Microsoft Teams](https://img.shields.io/badge/Teams-%230078D4.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-%230078D4.svg?style=for-the-badge&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/M365-%230078D4.svg?style=for-the-badge&logoColor=white)
+![Exchange](https://img.shields.io/badge/Exchange-Server-%230078D4?style=for-the-badge)
 
-### Azure Services
-![Azure VMs](https://img.shields.io/badge/Azure%20VMs-%230078D4.svg?style=for-the-badge&logoColor=white)
-![App Service](https://img.shields.io/badge/App%20Service-%230078D4.svg?style=for-the-badge&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure%20SQL-%230078D4.svg?style=for-the-badge&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D4.svg?style=for-the-badge&logoColor=white)
-
-### Networking
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Protocol-%23333333?style=for-the-badge)
-![DNS](https://img.shields.io/badge/DNS-%23333333.svg?style=for-the-badge)
-![VPN](https://img.shields.io/badge/VPN-Security-%23333333?style=for-the-badge)
-![Firewalls](https://img.shields.io/badge/Firewalls-%23333333.svg?style=for-the-badge)
+### Administration & Networking
+![VPN](https://img.shields.io/badge/VPN-Configuration-%23333333?style=for-the-badge)
+![SCCM](https://img.shields.io/badge/SCCM-%230078D4.svg?style=for-the-badge&logoColor=white)
+![Genesys](https://img.shields.io/badge/Genesys-Communication-%23FF6B6B?style=for-the-badge)
+![Network Essentials](https://img.shields.io/badge/Network-Administration-%23333333?style=for-the-badge)
 
 ---
 
@@ -60,35 +58,74 @@ I'm a **System Administrator** and **Server Handler** specializing in cloud infr
 
 ---
 
-## 🏆 Certifications & Achievements
+## 💼 Professional Experience Highlights
 
-- ✅ **Pull Shark** - 50+ Pull Requests
-- ⚡ **Quickdraw** - Created PR within first hour  
-- 🌟 **Open Source Contributor** - Active community member
+### Key Responsibilities & Achievements
+
+**Server Infrastructure Management**
+- ✅ Managed server infrastructure with robust security protocols
+- ✅ Implemented IT security policies and compliance procedures
+- ✅ Oversaw virtualization environments and system performance
+- ✅ Configured and maintained hardware infrastructure
+
+**Technical Support & Incident Management**
+- ✅ Resolved complex technical issues with efficiency
+- ✅ Prioritized tickets and maintained SLA adherence
+- ✅ Managed incident escalation and resolution workflows
+- ✅ Provided comprehensive technical troubleshooting
+
+**User & Access Management**
+- ✅ Managed Active Directory accounts, security groups, and access permissions
+- ✅ Administered user accounts including enable/disable and license management
+- ✅ Handled employee onboarding and offboarding procedures
+- ✅ Managed distribution lists and shared mailboxes
+
+**IT Asset & License Management**
+- ✅ IT asset management and hardware inventory tracking
+- ✅ Software license management and compliance monitoring
+- ✅ Hardware procurement, deployment, and replacement coordination
+- ✅ Laptop allocation and reassignment coordination
 
 ---
 
-## 📁 Key Projects
+## 🏆 Certifications & Training
 
-### 🖥️ [Python Utility Tools](https://github.com/Im044/python-utility-tools)
-Collection of Python utilities for system administration and server management
+- 🎓 **ITIL Certified** - Service management framework expertise
+- 🎓 **Microsoft Azure Fundamentals (AZ-900)** - Cloud concepts and services
+- 🎓 **Windows Server Administration** - Server installation and management
+- 🎓 **Active Directory & Group Policy** - User and access management
+- 🎓 **Cisco Networking Basics** - Network administration fundamentals
+- 🎓 **Cybersecurity Fundamentals** - Information security and risk management
+- 🎓 **Full Stack Development** - Comprehensive understanding of web technologies
+- 🎓 **Java SE Certification** - Core Java programming
+
+---
+
+## 📈 Key Projects & Repositories
+
+### 🖥️ [Azure PowerShell Automation](https://github.com/Im044/azure-powershell-automation)
+Collection of PowerShell automation scripts for Azure infrastructure and server management
+
+### 🐍 [Python Utility Tools](https://github.com/Im044/python-utility-tools)
+Utility scripts for system administration and IT operations
 
 ### 🌐 [Web Dev Toolkit](https://github.com/Im044/web-dev-toolkit)
-Web development utilities for cloud-based applications
-
-### 🔄 [n8n Automation Workflows](https://github.com/TheAlgorithms/Python)
-Automation workflows for IT operations and server management
+Web development utilities and tools
 
 ---
 
-## 🎯 Expertise Areas
+## 💪 Core Competencies
 
-- **Azure Administration**: VM management, networking, security, compliance
-- **Server Management**: Windows & Linux server administration
-- **Infrastructure**: Cloud architecture, disaster recovery, scalability
-- **Security**: Azure security, IAM, firewalls, data protection
-- **Troubleshooting**: Azure issue resolution, performance optimization
-- **Automation**: PowerShell scripting, CI/CD pipelines
+| Category | Skills |
+|----------|--------|
+| **Support Systems** | ServiceNow, Nova, Atrium, Ticketing systems, Incident management |
+| **Server Admin** | Windows Server, Linux, Active Directory, Group Policy, Virtualization |
+| **Cloud Platforms** | Microsoft Azure, Azure services, Azure DevOps |
+| **User Management** | Active Directory, Account administration, Access control, Intune |
+| **Networking** | Network administration, VPN configuration, TCP/IP, DNS |
+| **Microsoft Tools** | MS 365, Teams, Outlook, SharePoint, Exchange, OneDrive |
+| **Hardware** | Desktop support, Laptop management, Hardware deployment, BIOS/UEFI |
+| **Compliance** | IT security policies, Disaster recovery, SLA management, ITIL practices |
 
 ---
 
@@ -96,17 +133,21 @@ Automation workflows for IT operations and server management
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-muffasil-661191209/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdmuffasil893@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/im04)
-[![Personal Website](https://img.shields.io/badge/Portfolio-%23000000?logo=vercel&logoColor=white)](https://mohd-muffasil-it-support-82pr7w9.gamma.site/)
+[![Phone](https://img.shields.io/badge/Phone-%2B91-brightgreen?logo=phone&logoColor=white)]() +91 7097888086
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?logo=vercel&logoColor=white)](https://mohd-muffasil-it-support-82pr7w9.gamma.site/)
 
 ---
 
-## 💝 Support My Work
+## 🎯 Career Highlights
 
-If you find my projects helpful, consider supporting:
+✨ **Senior Technical Support Specialist** - Tech Mahindra (Verizon B2B)  
+Provided comprehensive technical support to enterprise clients with focus on Active Directory management and incident resolution.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohdmuffasil)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mohdmuffasil)
+✨ **Technical Support Representative** - Foundever Private Limited (HP B2C)  
+Recognized as top performer earning best performer award, managed global technical support queries.
+
+✨ **Current Role** - Cameo Global Communications (NEW ERA TECHNOLOGY)  
+IT Support Specialist managing enterprise infrastructure, security, and technical support operations.
 
 ---
 
@@ -115,5 +156,5 @@ If you find my projects helpful, consider supporting:
 </div>
 
 <div align="center">
-  <em>"Infrastructure is the backbone of modern IT. Excellence in administration is the key to success." - IT Professional</em>
+  <em>"Technical support is not just fixing problems—it's enabling business continuity."</em>
 </div>
