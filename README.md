@@ -141,10 +141,4 @@ Your support helps me continue developing and maintaining these projects. Thank 
 
 ---
 
-## 💎 Animated Profile Features
-
-### GitHub Activity Snake
-
-![GitHub Snake Animation](https://github.com/Im044/Im044/blob/output/github-contribution-grid-snake.svg)
-
 
