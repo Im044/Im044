@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mohd Muffasil
+# 👋 Hello world 🌍, I'm Mohd Muffasil
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=System+Administrator;Server+Handler;AI+Automation+Specialist;Freelancer" alt="Typing SVG" />
 
