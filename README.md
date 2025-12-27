@@ -2,17 +2,28 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=System+Administrator;Server+Handler;AI+Automation+Specialist;Freelancer" alt="Typing SVG" />
+
+---
+
 ![im04-project Logo](https://img.shields.io/badge/Project-im04--project-blue?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 **System Administrator | Server Handler | Freelancer - Available for IT Infrastructure & Azure projects**
 
+---
+
+<img src="https://img.shields.io/badge/Welcome-👋-blue?style=flat-square&color=0078D4" alt="Welcome" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=Im044.Im044" alt="Visitor Badge" />
+
 </div>
 
 ---
 
 ## 💼 About Me
+
+<img align="right" src="https://media.giphy.com/media/SWoRKslHVtqjXVKeVd/giphy.gif" width="200" />
 
 I'm a **System Administrator, Server Handler, and Freelancer** specializing in cloud infrastructure and IT operations. Based in Hyderabad, India, I focus on managing enterprise servers, cloud infrastructure, and resolving critical Azure issues.
 
@@ -95,6 +106,8 @@ I'm a **System Administrator, Server Handler, and Freelancer** specializing in c
 
 ## 🤖 AI Automation & Learning Focus
 
+<img src="https://media.giphy.com/media/l0HlNaQ9lS5Be6dgw/giphy.gif" width="100" alt="AI" />
+
 Currently deepening expertise in **Intelligent Automation and AI-Driven Infrastructure**:
 
 - **Robotic Process Automation (RPA)**: UiPath, Blue Prism, Automation Anywhere
@@ -109,9 +122,15 @@ Currently deepening expertise in **Intelligent Automation and AI-Driven Infrastr
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Im044&theme=dark&hide_border=false&include_all_commits=true)](https://github.com/Im044)
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Im044&theme=dark&hide_border=false)](https://github.com/Im044)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im044&theme=dark&layout=compact&hide_border=false)](https://github.com/Im044)
+
+</div>
 
 ---
 
@@ -172,6 +191,8 @@ If you find my projects helpful, consider supporting:
 <div align="center">
 
 **Made with ❤️ by [Mohd Muffasil](https://github.com/Im044)**
+
+![Wave](https://img.shields.io/badge/-👋-blue?style=flat-square&color=transparent)
 
 [⬆ Back to Top](#-hello-im-mohd-muffasil)
 
