@@ -140,3 +140,68 @@ Your support helps me continue developing and maintaining these projects. Thank 
 ---
 
 
+
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Im044&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Im044&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Im044&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Im044&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Im044&theme=tokyo-night&hide_border=true)](https://github.com/Im044)
+
+---
+
+## 💻 Featured Repositories
+
+<div align="center">
+  
+[![AI Agents Docker Automation](https://github-readme-stats.vercel.app/api/pin/?username=Im044&repo=ai-agents-docker-automation&theme=tokyonight&hide_border=true)](https://github.com/Im044/ai-agents-docker-automation)
+[![AI Agent Framework](https://github-readme-stats.vercel.app/api/pin/?username=Im044&repo=ai-agent-framework&theme=tokyonight&hide_border=true)](https://github.com/Im044/ai-agent-framework)
+[![Enterprise Monitoring Logging](https://github-readme-stats.vercel.app/api/pin/?username=Im044&repo=enterprise-monitoring-logging&theme=tokyonight&hide_border=true)](https://github.com/Im044/enterprise-monitoring-logging)
+[![Azure Infrastructure Automation](https://github-readme-stats.vercel.app/api/pin/?username=Im044&repo=azure-infrastructure-automation&theme=tokyonight&hide_border=true)](https://github.com/Im044/azure-infrastructure-automation)
+
+</div>
+
+---
+
+## 👀 Profile Visitors
+
+<div align="center">
+  
+![Visitor Count](https://profile-counter.glitch.me/Im044/count.svg)
+
+</div>
+
+---
+
+### 📫 How to reach me:
+
+<div align="center">
+  
+**Email:** mdmuffasil893@gmail.com | **LinkedIn:** [mohd-muffasil](https://linkedin.com/in/mohd-muffasil-661191209) | **GitHub:** [@Im044](https://github.com/Im044)
+
+</div>
+
