@@ -148,11 +148,11 @@ Your support helps me continue developing and maintaining these projects. Thank 
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Im044&show_icons=true&theme=tokyonight&theme=tokyo-night&count_private=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Im044&show_icons=true&theme=tokyonight&theme=tokyo-night&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Im044&theme=tokyonight&theme=tokyo-night)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Im044&layout=compact&theme=tokyonight&theme=tokyo-night)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Im044&layout=compact&theme=tokyonight&theme=tokyo-night)
 
 </div>
 
@@ -178,10 +178,10 @@ Your support helps me continue developing and maintaining these projects. Thank 
 
 <div align="center">
   
-[![AI Agents Docker Automation](https://github-readme-stats.vercel.app/api/pin/?username=Im044&repo=ai-agents-docker-automation&theme=tokyonight&theme=tokyo-night)](https://github.com/Im044/ai-agents-docker-automation)
-[![AI Agent Framework](https://github-readme-stats.vercel.app/api/pin/?username=Im044&repo=ai-agent-framework&theme=tokyonight&theme=tokyo-night)](https://github.com/Im044/ai-agent-framework)
-[![Enterprise Monitoring Logging](https://github-readme-stats.vercel.app/api/pin/?username=Im044&repo=enterprise-monitoring-logging&theme=tokyonight&theme=tokyo-night)](https://github.com/Im044/enterprise-monitoring-logging)
-[![Azure Infrastructure Automation](https://github-readme-stats.vercel.app/api/pin/?username=Im044&repo=azure-infrastructure-automation&theme=tokyonight&theme=tokyo-night)](https://github.com/Im044/azure-infrastructure-automation)
+[![AI Agents Docker Automation](https://github-readme-stats.shion.dev/api/pin/?username=Im044&repo=ai-agents-docker-automation&theme=tokyonight&theme=tokyo-night)](https://github.com/Im044/ai-agents-docker-automation)
+[![AI Agent Framework](https://github-readme-stats.shion.dev/api/pin/?username=Im044&repo=ai-agent-framework&theme=tokyonight&theme=tokyo-night)](https://github.com/Im044/ai-agent-framework)
+[![Enterprise Monitoring Logging](https://github-readme-stats.shion.dev/api/pin/?username=Im044&repo=enterprise-monitoring-logging&theme=tokyonight&theme=tokyo-night)](https://github.com/Im044/enterprise-monitoring-logging)
+[![Azure Infrastructure Automation](https://github-readme-stats.shion.dev/api/pin/?username=Im044&repo=azure-infrastructure-automation&theme=tokyonight&theme=tokyo-night)](https://github.com/Im044/azure-infrastructure-automation)
 
 </div>
 
@@ -191,7 +191,7 @@ Your support helps me continue developing and maintaining these projects. Thank 
 
 <div align="center">
   
-![Visitor Count](https://profile-counter-2.vercel.app/Im044/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=Im044&color=0078D4)
 
 </div>
 
