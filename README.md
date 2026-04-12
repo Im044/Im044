@@ -1,6 +1,6 @@
-# 👋 Hello world 🌍, I'm Muhammed  Muffasil
+# 👋 Hello world 🌍, I'm Muhammed Muffasil
+
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=System+Administrator;Server+Handler;AI+Automation+Specialist;Freelancer" alt="Typing SVG" />
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Welcome-👋-blue?style=flat-square&color=0078D4" alt="Welcome" />
+<img src="https://img.shields.io/badge/Welcome-%F0%9F%91%8B-blue?style=flat-square&color=0078D4" alt="Welcome" />
 </div>
 
 ---
@@ -34,26 +34,22 @@ I'm a **System Administrator, Server Handler, and Freelancer** specializing in c
 ## 🔧 Technical Skills
 
 ### Cloud Platforms
-
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Server & Infrastructure
-
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### VPN & Server Administration Tools
-
 ![L2TP](https://img.shields.io/badge/L2TP-VPN-%23333333?style=for-the-badge)
 ![PPTP](https://img.shields.io/badge/PPTP-Protocol-%23333333?style=for-the-badge)
 ![IKEv2](https://img.shields.io/badge/IKEv2-Protocol-%23333333?style=for-the-badge)
 
 ### Administration & Tools
-
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-%230078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -63,7 +59,6 @@ I'm a **System Administrator, Server Handler, and Freelancer** specializing in c
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ### AI & Automation Technologies
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![RPA](https://img.shields.io/badge/RPA-%23Zapier-FF4F00?style=for-the-badge)
 ![Make (Integromat)](https://img.shields.io/badge/Make-%23FF6B6B?style=for-the-badge)
@@ -77,7 +72,6 @@ I'm a **System Administrator, Server Handler, and Freelancer** specializing in c
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF000000?style=for-the-badge&logo=python&logoColor=white)
 
 ### Azure Services
-
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
@@ -97,25 +91,18 @@ Currently deepening expertise in **Intelligent Automation and AI-Driven Infrastr
 ## 🌟 Featured Projects
 
 ### [im04-project](https://github.com/Im044/im04-prjoect-)
-
 My flagship project showcasing IT infrastructure automation and server management solutions.
 
 ---
 
-
-
----
-
 ## 🤝 Connect With Me
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmuffasil893@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd.muffasil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-muffasil-661191209)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Im044)
 
 ---
 
 ## 💡 Let's Collaborate!
-
 I'm always open to discussing IT infrastructure projects, cloud solutions, server management, and innovative automation ideas. Feel free to reach out!
 
 ---
@@ -127,57 +114,30 @@ I'm always open to discussing IT infrastructure projects, cloud solutions, serve
 If you find my projects helpful and would like to support my work, you can:
 
 ### Buy Me a Coffee
-
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mohdmuffasil)
 
 ### PayPal
-
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mohdmuffasil)
 
 Your support helps me continue developing and maintaining these projects. Thank you! ❤️
-
-
----
-
-
-
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Im044&show_icons=true&theme=tokyonight&theme=tokyo-night&count_private=true)
 
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Im044&show_icons=true&theme=tokyonight&theme=tokyo-night&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Im044&theme=tokyonight&theme=tokyo-night)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Im044&layout=compact&theme=tokyonight&theme=tokyo-night)
-
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.akshaykashyap.com/?username=Im044&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://ghchart.rshah.org/Im044?theme=tokyo-night)](https://github.com/Im044)
 
 ---
 
 ## 💻 Featured Repositories
 
 <div align="center">
-  
+
 [![AI Agents Docker Automation](https://github-readme-stats.shion.dev/api/pin/?username=Im044&repo=ai-agents-docker-automation&theme=tokyonight&theme=tokyo-night)](https://github.com/Im044/ai-agents-docker-automation)
 [![AI Agent Framework](https://github-readme-stats.shion.dev/api/pin/?username=Im044&repo=ai-agent-framework&theme=tokyonight&theme=tokyo-night)](https://github.com/Im044/ai-agent-framework)
 [![Enterprise Monitoring Logging](https://github-readme-stats.shion.dev/api/pin/?username=Im044&repo=enterprise-monitoring-logging&theme=tokyonight&theme=tokyo-night)](https://github.com/Im044/enterprise-monitoring-logging)
@@ -187,21 +147,6 @@ Your support helps me continue developing and maintaining these projects. Thank 
 
 ---
 
-## 👀 Profile Visitors
-
-<div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=Im044&color=0078D4)
-
-</div>
-
----
-
 ### 📫 How to reach me:
 
-<div align="center">
-  
 **Email:** mdmuffasil893@gmail.com | **LinkedIn:** [mohd-muffasil](https://linkedin.com/in/mohd-muffasil-661191209) | **GitHub:** [@Im044](https://github.com/Im044)
-
-</div>
-
